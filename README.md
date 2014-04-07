@@ -1,8 +1,7 @@
 Oracle SQL Cheatsheet
 ==============
-<br>
 ##Account Expiration
-<br>
+
 Set password expiration to unlimited
 ```
 ALTER PROFILE DEFAULT LIMIT PASSWORD_LIFE_TIME UNLIMITED
