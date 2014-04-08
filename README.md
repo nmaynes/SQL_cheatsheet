@@ -14,4 +14,11 @@ Set a user's profile to default
 ```
 alter user *user_name* profile default;
 ```
+
+##Privileges
+
+Enable user to create views
+```
+GRANT CREATE ANY VIEW to *user_name*;
+```
     
